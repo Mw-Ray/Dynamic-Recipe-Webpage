@@ -13,7 +13,8 @@ const recipeObjects = [
             "2 chillies, chopped",
             "1 teaspoon cumin seeds",
         ],
-        instructions: `1.Rinse the basmati rice under cold water until the water runs clear.
+        instructions: `
+        1.Rinse the basmati rice under cold water until the water runs clear.
         2.In a large pot, heat the vegetable oil over medium heat.
         3.Add the chopped onion and sauté until golden brown.
         4.Add the minced garlic and grated ginger, cooking for another minute until fragrant.
